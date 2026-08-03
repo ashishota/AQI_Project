@@ -4,7 +4,7 @@ This directory contains the machine learning pipelines and exploratory data anal
 
 The forecasting models included in this repository are:
 - **ARIMA** (AutoRegressive Integrated Moving Average)
-- **SARIMA** (Seasonal ARIMA)
+- **SARIMAX** (Seasonal ARIMA)
 - **LSTM** (Long Short-Term Memory Neural Networks)
 - **XGBoost** (Extreme Gradient Boosting)
 
